@@ -42,3 +42,5 @@ Route::get('/logout', 'Auth\LoginController@logoutGet')->name('logout');
 Route::post('/logout', 'Auth\LoginController@logout');
 
 //Route::get('register', [\App\Http\Controllers\Auth\LoginController::class, 'register']);
+
+Route::get('/wwwwwwwwwwwwwwwwwwww');
